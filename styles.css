@@ -9,8 +9,9 @@ body {
   
   .container {
     max-width: 33rem;
+    width: 100%;
     margin: 0 auto;
-    padding: 3rem 1rem;
+    padding: 15vh 1rem 3rem;
   }
   
   a {
